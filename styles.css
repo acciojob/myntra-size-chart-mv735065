@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+th,td{
+	border: solid 2px black;
+	margin:0;
+	
+}
+
+thead,tbody{
+	border: solid 2px black;
+	margin:0;
+	
+	
+}
